@@ -3,9 +3,9 @@ Algoritmo "exemplo"
 
  Var // espaço reservado para declarar variáveis
     nome: caractere 
-    // caractere é um tipo de dado que armazena letras, palavras ou frases
+    // caractere é um tipo de variável que armazena letras, palavras ou frases
     idade: inteiro
-    // inteiro é um tipo de dado que armazena números inteiros
+    // inteiro é um tipo de variável que armazena números inteiros
  
  inicio 
  // inicio do algoritmo
