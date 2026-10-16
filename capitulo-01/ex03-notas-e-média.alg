@@ -2,14 +2,14 @@ Algoritmo "Notas e Média"
  // outro exemplo da trilha de aprendizagem (ads 14.10.26)
 
  var
-// inicio da declaração de variáveis
+    // inicio da declaração de variáveis
     nota1, nota2, media: real
     // real é um tipo de variável que armazena números reais (com casas decimais)
 
 
  inicio
- // aqui começarão as linhas do programa.
- 
+  // aqui começarão as linhas do programa. A entrada é o recebimento das notas, o processamento é o cálculo da média e a saída é a exibição do resultado na tela. 
+  
   escreval("informe a nota 1")
    // Faz com que o programa exiba na tela uma mensagem "informe a nota 1" para o usuário. Espera que o usuário digite um valor. 
   leia(nota1)
