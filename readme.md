@@ -15,4 +15,6 @@ Aqui estão os primeiros exercícios práticos focados na estrutura básica de u
 ---
 
 ## 🚀 Próximos Capítulos
-- `capitulo-02/` *(Em breve)*
+## 📁 Capítulo 02: Python
+
+Neste capítulo, a trilha de aprendizagem começa explanar os primeiros contatos com a linguagem Python. 
