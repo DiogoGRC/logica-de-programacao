@@ -1,13 +1,15 @@
 
 
-# Em Python também temos comandos de entrada e saída obviamente. Nesse caso temos os comandos Input e Print.
-# O comando input() é utilizado para receber dados do usuário. No caso acima, ele solicita que o usuário digite seu nome e armazena esse valor na variável "aluno".
-# No Python, usamos também o comando Print, que faz o básico: mostrar uma mensagem para o usuário
+# Em python é esse o sinal para escrever observações "#" como pode observar.
 
+"""" Caso você precise escrever um texto longo com vários parágrafos de comentário (comentário de múltiplas linhas) em Python, a convenção é usar 
+três aspas simples ou duplas, como essas que estamos usando. """
+
+""""" Python é uma linguagem de programação de alto nível, simples e versátil. Nela é possível uma aprendizagem mais simples ou fluida digamos,
+para desenvolver desde pequenos projetos até outros mais complexos. """ 
 
 
 print("Olá mundo!")
-
 
 nome = input("digite seu nome: ")
 idade = int(input("digite sua idade: "))
